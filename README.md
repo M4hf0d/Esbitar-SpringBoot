@@ -11,13 +11,12 @@ Features in our Application.<br/>
 
 
 <h3> Run With :</h3>
-````
+
+```
 mvn clean install  
 
 mvn spring-boot:run
-
-````
-
+```
 <h3>Screenshots</h3>
 
 <p>Home.</p><br>

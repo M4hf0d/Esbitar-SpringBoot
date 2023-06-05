@@ -11,7 +11,7 @@ Features in our Application.<br/>
 
 
 <h3> Run With :</h3>
-```java
+```
 mvn clean install  
 mvn spring-boot:run
 ```
